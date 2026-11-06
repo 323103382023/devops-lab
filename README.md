@@ -1,6 +1,1 @@
-# TradeLive - trading platform (TL epic)
 
-Stories : login, portfolio, buy, sell, history
-Buy order rule: quantity must be greater than zero
-Buy order validation is enabled
-Jenkins CI automatic polling test.
